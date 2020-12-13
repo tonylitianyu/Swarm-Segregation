@@ -22,6 +22,6 @@ The robots in different colors represent different virtual body radius. The gree
   
 
 #### Gif Demo:
-![](https://j.gifs.com/6XPqml.gif)
+![](brazilnut.gif)
 
 
