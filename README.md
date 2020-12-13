@@ -8,6 +8,13 @@ The Coachswarm simulation is provided by Professor Michael Rubenstein at Northwe
 
 Since this is a class project, the python code cannot be made public. If you are interested, please contact me for more detials.
 
+#### Approach
+
+The robots in different colors represent different virtual body radius. The green robots have twice the radius of the red robots while the blue robots have three times the radius of the red robots. Each robot, no matter what color it is, will be governed by the same rule. The rule is defined by three vectors:
+
+1. A gravitational pulling towards a common target (the center, in this case).
+2. A random motion vector, which is the effect of vibration
+3. A repulsive vector that moves away from neighbors, which is the effect of collision
 
 #### Full Demo Video:
   
@@ -15,6 +22,6 @@ Since this is a class project, the python code cannot be made public. If you are
   
 
 #### Gif Demo:
-![] (https://j.gifs.com/6XPqml.gif)
+![](https://j.gifs.com/6XPqml.gif)
 
 
