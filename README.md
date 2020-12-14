@@ -6,7 +6,7 @@ Chen, Jianing, et al. "Segregation in swarms of e-puck robots based on the brazi
 
 The Coachswarm simulation is provided by Professor Michael Rubenstein at Northwestern University
 
-Since this is a class project, the python code cannot be made public. If you are interested, please contact me for more detials.
+Since this is a class project, the python code cannot be made public. If you are interested, please contact me for more details.
 
 #### Approach
 
